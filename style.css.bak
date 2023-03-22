@@ -1,0 +1,88 @@
+
+
+
+
+body {
+  background-image: url("https://cdn.wallpapersafari.com/93/79/0PxyBf.jpg");
+}
+
+#wrapper {
+  background-color: #ffffff;
+  padding: 10px;
+  width: 780px;
+  margin: auto;
+  height: 1500;
+	clear: both;
+}
+
+
+article {
+  width: 770px;
+  height: 1500px;
+  margin: 0 10px 10px 0;
+  float: left;
+}
+
+nav {
+  background-color: #ffffff;
+  width: 770px;
+  height: 79px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  text-align: center;
+  float: left;
+}
+
+footer {
+  clear: both;
+  background-color: #505810;
+  width: 770px;
+  height: 120px;
+}
+
+h1 {
+	text-align: center;
+	float: right;
+	font-size: 68px;
+	font-family: arial;
+	font-weight: bold;
+}
+
+#kopjeeen{
+	float: left;
+}
+
+#spelregels{
+	float: right;
+}
+
+#image {
+	float: left;
+}
+ #nieuws1 {
+ 	float: left;
+ 	margin: 5px;
+ }
+ 
+  #nieuws2 {
+ 	float: left;
+ 	margin: 5px;
+ }
+ 
+  #nieuws3 {
+ 	float: left;
+ 	margin: 5px;
+ }
+ 
+  #nieuws4 {
+ 	float: left;
+ 	margin: 5px
+ }
+ 
+ #list {
+ 	float: left;
+ }
+ 
+ #logo4 {
+ 	float: left;
+ }
